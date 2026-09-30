@@ -1,0 +1,550 @@
+frame,pts_seconds,panel_mean_change,card_mean_change,phase
+1,0.0,0,0,Initial Card / Colors / Texture
+2,0.016667,0.0,0.0,Initial Card / Colors / Texture
+3,0.033333,0.0,0.0,Initial Card / Colors / Texture
+4,0.05,0.0,0.0,Initial Card / Colors / Texture
+5,0.066667,0.0,0.0,Initial Card / Colors / Texture
+6,0.083333,0.001,0.001,Initial Card / Colors / Texture
+7,0.1,0.003,0.001,Initial Card / Colors / Texture
+8,0.133333,0.001,0.001,Initial Card / Colors / Texture
+9,0.15,0.003,0.002,Initial Card / Colors / Texture
+10,0.166667,0.008,0.011,Initial Card / Colors / Texture
+11,0.183333,0.001,0.011,Initial Card / Colors / Texture
+12,0.2,0.001,0.008,Initial Card / Colors / Texture
+13,0.216667,0.005,0.019,Initial Card / Colors / Texture
+14,0.233333,0.019,0.076,Initial Card / Colors / Texture
+15,0.25,0.004,0.044,Initial Card / Colors / Texture
+16,0.266667,0.007,0.031,Initial Card / Colors / Texture
+17,0.283333,0.013,0.131,Initial Card / Colors / Texture
+18,0.3,0.014,0.183,Initial Card / Colors / Texture
+19,0.333333,0.009,0.108,Initial Card / Colors / Texture
+20,0.35,0.008,0.096,Initial Card / Colors / Texture
+21,0.366667,0.017,0.241,Initial Card / Colors / Texture
+22,0.383333,0.02,0.215,Initial Card / Colors / Texture
+23,0.4,0.006,0.118,Initial Card / Colors / Texture
+24,0.416667,0.008,0.111,Initial Card / Colors / Texture
+25,0.433333,0.019,0.225,Initial Card / Colors / Texture
+26,0.45,0.01,0.135,Initial Card / Colors / Texture
+27,0.466667,0.01,0.078,Initial Card / Colors / Texture
+28,0.483333,0.005,0.077,Initial Card / Colors / Texture
+29,0.5,0.023,0.153,Initial Card / Colors / Texture
+30,0.516667,0.012,0.137,Initial Card / Colors / Texture
+31,0.533333,0.008,0.074,Initial Card / Colors / Texture
+32,0.55,0.006,0.062,Initial Card / Colors / Texture
+33,0.566667,0.019,0.117,Initial Card / Colors / Texture
+34,0.583333,0.003,0.076,Initial Card / Colors / Texture
+35,0.616667,0.002,0.035,Initial Card / Colors / Texture
+36,0.633333,0.002,0.033,Initial Card / Colors / Texture
+37,0.65,0.004,0.084,Initial Card / Colors / Texture
+38,0.666667,0.002,0.069,Initial Card / Colors / Texture
+39,0.683333,0.001,0.033,Initial Card / Colors / Texture
+40,0.7,0.001,0.031,Initial Card / Colors / Texture
+41,0.733333,0.002,0.069,Initial Card / Colors / Texture
+42,0.75,0.008,0.039,Initial Card / Colors / Texture
+43,0.766667,0.001,0.019,Initial Card / Colors / Texture
+44,0.783333,0.011,0.02,Initial Card / Colors / Texture
+45,0.8,0.01,0.04,Pointer tilt / foil response
+46,0.816667,0.012,0.162,Pointer tilt / foil response
+47,0.85,0.006,0.09,Pointer tilt / foil response
+48,0.866667,0.006,0.088,Pointer tilt / foil response
+49,0.883333,0.017,0.162,Pointer tilt / foil response
+50,0.916667,0.003,0.032,Pointer tilt / foil response
+51,0.933333,0.002,0.013,Pointer tilt / foil response
+52,0.95,0.002,0.014,Pointer tilt / foil response
+53,0.966667,0.003,0.031,Pointer tilt / foil response
+54,0.983333,0.0,0.009,Pointer tilt / foil response
+55,1.0,0.0,0.084,Pointer tilt / foil response
+56,1.016667,0.0,0.154,Pointer tilt / foil response
+57,1.033333,0.0,0.153,Pointer tilt / foil response
+58,1.05,0.0,2.106,Pointer tilt / foil response
+59,1.066667,0.0,3.241,Pointer tilt / foil response
+60,1.083333,0.0,3.238,Pointer tilt / foil response
+61,1.1,0.0,3.852,Pointer tilt / foil response
+62,1.116667,0.0,3.507,Pointer tilt / foil response
+63,1.15,0.0,4.686,Pointer tilt / foil response
+64,1.166667,0.0,2.351,Pointer tilt / foil response
+65,1.183333,0.0,3.022,Pointer tilt / foil response
+66,1.2,0.0,4.223,Pointer tilt / foil response
+67,1.216667,0.0,4.438,Pointer tilt / foil response
+68,1.233333,0.0,5.369,Pointer tilt / foil response
+69,1.25,0.0,5.728,Pointer tilt / foil response
+70,1.266667,0.0,6.333,Pointer tilt / foil response
+71,1.283333,0.0,6.38,Pointer tilt / foil response
+72,1.3,0.0,5.813,Pointer tilt / foil response
+73,1.333333,0.0,10.258,Pointer tilt / foil response
+74,1.35,0.0,3.865,Pointer tilt / foil response
+75,1.366667,0.0,2.749,Pointer tilt / foil response
+76,1.383333,0.0,1.782,Pointer tilt / foil response
+77,1.4,0.0,2.559,Pointer tilt / foil response
+78,1.416667,0.0,3.838,Pointer tilt / foil response
+79,1.433333,0.0,3.769,Pointer tilt / foil response
+80,1.45,0.0,4.098,Pointer tilt / foil response
+81,1.466667,0.0,3.902,Pointer tilt / foil response
+82,1.483333,0.0,4.491,Pointer tilt / foil response
+83,1.5,0.0,3.563,Pointer tilt / foil response
+84,1.516667,0.0,3.563,Pointer tilt / foil response
+85,1.533333,0.0,2.665,Pointer tilt / foil response
+86,1.55,0.0,2.74,Pointer tilt / foil response
+87,1.566667,0.0,2.657,Pointer tilt / foil response
+88,1.583333,0.0,1.796,Pointer tilt / foil response
+89,1.6,0.0,1.902,Pointer tilt / foil response
+90,1.616667,0.0,1.384,Pointer tilt / foil response
+91,1.633333,0.0,1.788,Pointer tilt / foil response
+92,1.65,0.0,1.521,Pointer tilt / foil response
+93,1.666667,0.0,1.868,Pointer tilt / foil response
+94,1.683333,0.0,1.514,Pointer tilt / foil response
+95,1.7,0.0,1.509,Pointer tilt / foil response
+96,1.716667,0.0,1.416,Pointer tilt / foil response
+97,1.733333,0.0,1.272,Pointer tilt / foil response
+98,1.75,0.0,1.103,Pointer tilt / foil response
+99,1.766667,0.0,0.992,Pointer tilt / foil response
+100,1.783333,0.0,1.051,Pointer tilt / foil response
+101,1.8,0.0,2.887,Pointer tilt / foil response
+102,1.816667,0.0,4.853,Pointer tilt / foil response
+103,1.85,0.0,9.51,Pointer tilt / foil response
+104,1.866667,0.0,4.976,Pointer tilt / foil response
+105,1.883333,0.0,3.908,Pointer tilt / foil response
+106,1.9,0.0,3.425,Pointer tilt / foil response
+107,1.916667,0.0,3.036,Pointer tilt / foil response
+108,1.933333,0.0,3.576,Pointer tilt / foil response
+109,1.95,0.0,4.783,Pointer tilt / foil response
+110,1.966667,0.0,5.038,Pointer tilt / foil response
+111,1.983333,0.0,5.389,Pointer tilt / foil response
+112,2.0,0.0,5.602,Pointer tilt / foil response
+113,2.016667,0.0,5.914,Pointer tilt / foil response
+114,2.033333,0.0,5.85,Pointer tilt / foil response
+115,2.05,0.0,6.164,Pointer tilt / foil response
+116,2.066667,0.0,6.442,Pointer tilt / foil response
+117,2.083333,0.0,6.244,Pointer tilt / foil response
+118,2.1,0.0,6.237,Pointer tilt / foil response
+119,2.116667,0.0,0.493,Pointer tilt / foil response
+120,2.133333,0.0,9.384,Pointer tilt / foil response
+121,2.15,0.0,5.301,Pointer tilt / foil response
+122,2.166667,0.0,4.826,Pointer tilt / foil response
+123,2.183333,0.0,0.814,Pointer tilt / foil response
+124,2.2,0.0,3.401,Pointer tilt / foil response
+125,2.216667,0.0,7.522,Pointer tilt / foil response
+126,2.233333,0.0,0.214,Pointer tilt / foil response
+127,2.25,0.0,4.487,Pointer tilt / foil response
+128,2.266667,0.0,7.763,Pointer tilt / foil response
+129,2.283333,0.0,7.275,Pointer tilt / foil response
+130,2.3,0.0,7.981,Pointer tilt / foil response
+131,2.316667,0.0,7.546,Pointer tilt / foil response
+132,2.333333,0.0,6.915,Pointer tilt / foil response
+133,2.366667,0.0,10.801,Pointer tilt / foil response
+134,2.383333,0.0,6.083,Pointer tilt / foil response
+135,2.4,0.0,5.527,Pointer tilt / foil response
+136,2.416667,0.0,4.824,Pointer tilt / foil response
+137,2.433333,0.0,3.706,Pointer tilt / foil response
+138,2.45,0.0,3.207,Pointer tilt / foil response
+139,2.466667,0.0,2.48,Pointer tilt / foil response
+140,2.483333,0.0,0.978,Pointer tilt / foil response
+141,2.5,0.0,5.939,Pointer tilt / foil response
+142,2.516667,0.0,4.558,Pointer tilt / foil response
+143,2.533333,0.0,4.799,Pointer tilt / foil response
+144,2.55,0.0,0.481,Pointer tilt / foil response
+145,2.566667,0.0,5.856,Pointer tilt / foil response
+146,2.583333,0.0,11.583,Pointer tilt / foil response
+147,2.6,0.0,6.936,Pointer tilt / foil response
+148,2.616667,0.0,7.139,Pointer tilt / foil response
+149,2.633333,0.0,7.364,Pointer tilt / foil response
+150,2.65,0.0,6.776,Pointer tilt / foil response
+151,2.666667,0.0,7.68,Pointer tilt / foil response
+152,2.683333,0.0,0.462,Pointer tilt / foil response
+153,2.7,0.0,8.054,Pointer tilt / foil response
+154,2.716667,0.0,7.553,Pointer tilt / foil response
+155,2.733333,0.0,4.84,Pointer tilt / foil response
+156,2.75,0.0,5.3,Pointer tilt / foil response
+157,2.766667,0.0,2.599,Pointer tilt / foil response
+158,2.783333,0.0,0.607,Pointer tilt / foil response
+159,2.8,0.0,3.099,Pointer tilt / foil response
+160,2.816667,0.0,5.356,Pointer tilt / foil response
+161,2.833333,0.0,3.717,Pointer tilt / foil response
+162,2.85,0.0,2.982,Pointer tilt / foil response
+163,2.866667,0.0,2.856,Pointer tilt / foil response
+164,2.883333,0.0,2.379,Pointer tilt / foil response
+165,2.916667,0.0,3.568,Pointer tilt / foil response
+166,2.933333,0.0,1.694,Pointer tilt / foil response
+167,2.95,0.0,1.372,Pointer tilt / foil response
+168,2.966667,0.0,1.255,Pointer tilt / foil response
+169,2.983333,0.0,2.063,Pointer tilt / foil response
+170,3.0,0.37,4.732,Pointer tilt / foil response
+171,3.016667,0.0,3.548,Pointer tilt / foil response
+172,3.033333,0.0,3.805,Pointer tilt / foil response
+173,3.05,0.0,2.989,Pointer tilt / foil response
+174,3.066667,0.0,3.233,Pointer tilt / foil response
+175,3.083333,0.0,1.152,Pointer tilt / foil response
+176,3.1,0.0,1.316,Pointer tilt / foil response
+177,3.116667,0.0,0.79,Pointer tilt / foil response
+178,3.133333,0.0,1.341,Pointer tilt / foil response
+179,3.15,0.0,2.21,Pointer tilt / foil response
+180,3.166667,0.0,4.342,Pointer tilt / foil response
+181,3.183333,0.0,0.455,Pointer tilt / foil response
+182,3.2,0.0,6.792,Pointer tilt / foil response
+183,3.216667,0.0,1.114,Pointer tilt / foil response
+184,3.233333,0.0,4.3,Pointer tilt / foil response
+185,3.25,0.0,9.619,Pointer tilt / foil response
+186,3.266667,0.0,0.2,Pointer tilt / foil response
+187,3.283333,0.0,5.651,Pointer tilt / foil response
+188,3.3,0.0,5.706,Pointer tilt / foil response
+189,3.316667,0.0,5.158,Pointer tilt / foil response
+190,3.333333,0.0,5.076,Pointer tilt / foil response
+191,3.35,0.0,4.212,Pointer tilt / foil response
+192,3.366667,0.0,4.136,Pointer tilt / foil response
+193,3.383333,0.0,3.161,Pointer tilt / foil response
+194,3.4,0.0,3.508,Pointer tilt / foil response
+195,3.433333,0.0,4.263,Pointer tilt / foil response
+196,3.45,0.0,2.824,Pointer tilt / foil response
+197,3.466667,0.0,2.895,Pointer tilt / foil response
+198,3.483333,0.0,5.521,Pointer tilt / foil response
+199,3.5,0.0,3.215,Pointer tilt / foil response
+200,3.516667,0.0,0.824,Pointer tilt / foil response
+201,3.533333,0.0,4.477,Pointer tilt / foil response
+202,3.55,0.0,7.568,Pointer tilt / foil response
+203,3.566667,0.0,4.923,Pointer tilt / foil response
+204,3.583333,0.0,4.662,Pointer tilt / foil response
+205,3.6,0.0,4.926,Pointer tilt / foil response
+206,3.616667,0.0,5.567,Pointer tilt / foil response
+207,3.633333,0.0,8.062,Pointer tilt / foil response
+208,3.65,0.0,9.64,Pointer tilt / foil response
+209,3.666667,0.0,9.788,Pointer tilt / foil response
+210,3.683333,0.0,0.222,Pointer tilt / foil response
+211,3.7,0.0,7.651,Pointer tilt / foil response
+212,3.716667,0.0,7.436,Pointer tilt / foil response
+213,3.733333,0.0,6.621,Pointer tilt / foil response
+214,3.75,0.0,6.84,Pointer tilt / foil response
+215,3.766667,0.0,6.827,Pointer tilt / foil response
+216,3.783333,0.0,5.851,Pointer tilt / foil response
+217,3.8,0.0,7.356,Pointer tilt / foil response
+218,3.816667,0.0,0.351,Pointer tilt / foil response
+219,3.833333,0.0,2.681,Pointer tilt / foil response
+220,3.85,0.0,2.717,Pointer tilt / foil response
+221,3.866667,0.0,4.454,Pointer tilt / foil response
+222,3.883333,0.0,0.811,Pointer tilt / foil response
+223,3.9,0.0,3.739,Pointer tilt / foil response
+224,3.916667,0.0,3.815,Pointer tilt / foil response
+225,3.95,0.0,8.97,Pointer tilt / foil response
+226,3.966667,0.0,5.376,Pointer tilt / foil response
+227,3.983333,0.046,5.464,Pointer tilt / foil response
+228,4.0,0.092,7.701,Pointer tilt / foil response
+229,4.016667,0.093,3.39,Pointer tilt / foil response
+230,4.033333,0.092,3.032,Pointer tilt / foil response
+231,4.05,0.105,1.197,Pointer tilt / foil response
+232,4.066667,0.502,2.94,Pointer tilt / foil response
+233,4.083333,0.197,1.039,Pointer tilt / foil response
+234,4.1,0.203,0.837,Pointer tilt / foil response
+235,4.116667,0.078,2.004,Pointer tilt / foil response
+236,4.133333,0.001,1.685,Pointer tilt / foil response
+237,4.15,0.0,1.122,Pointer tilt / foil response
+238,4.166667,0.0,1.095,Pointer tilt / foil response
+239,4.183333,0.0,1.49,Pointer tilt / foil response
+240,4.2,0.0,1.811,Pointer tilt / foil response
+241,4.216667,0.0,1.264,Pointer tilt / foil response
+242,4.233333,0.0,1.12,Pointer tilt / foil response
+243,4.25,0.0,0.893,Panel scroll: Texture / Lighting
+244,4.266667,0.0,0.661,Panel scroll: Texture / Lighting
+245,4.283333,0.0,0.871,Panel scroll: Texture / Lighting
+246,4.3,0.001,0.545,Panel scroll: Texture / Lighting
+247,4.316667,0.002,0.822,Panel scroll: Texture / Lighting
+248,4.333333,0.001,0.451,Panel scroll: Texture / Lighting
+249,4.35,0.002,0.561,Panel scroll: Texture / Lighting
+250,4.366667,0.002,0.47,Panel scroll: Texture / Lighting
+251,4.4,9.385,0.308,Panel scroll: Texture / Lighting
+252,4.416667,12.354,0.433,Panel scroll: Texture / Lighting
+253,4.433333,18.158,0.436,Panel scroll: Texture / Lighting
+254,4.45,22.642,0.186,Panel scroll: Texture / Lighting
+255,4.466667,23.862,0.463,Panel scroll: Texture / Lighting
+256,4.483333,24.584,0.436,Panel scroll: Texture / Lighting
+257,4.5,25.094,0.501,Panel scroll: Texture / Lighting
+258,4.516667,25.032,0.308,Panel scroll: Texture / Lighting
+259,4.533333,24.138,0.378,Panel scroll: Texture / Lighting
+260,4.55,23.59,0.027,Panel scroll: Texture / Lighting
+261,4.566667,23.618,0.201,Panel scroll: Texture / Lighting
+262,4.583333,22.663,0.303,Panel scroll: Texture / Lighting
+263,4.6,21.703,0.164,Panel scroll: Texture / Lighting
+264,4.616667,19.368,0.293,Panel scroll: Texture / Lighting
+265,4.633333,18.347,0.086,Panel scroll: Texture / Lighting
+266,4.65,17.104,0.076,Panel scroll: Texture / Lighting
+267,4.666667,18.271,0.255,Panel scroll: Texture / Lighting
+268,4.683333,19.036,0.262,Panel scroll: Texture / Lighting
+269,4.7,18.513,0.27,Panel scroll: Texture / Lighting
+270,4.716667,17.961,0.073,Panel scroll: Texture / Lighting
+271,4.733333,18.885,0.033,Panel scroll: Texture / Lighting
+272,4.75,19.53,0.217,Panel scroll: Texture / Lighting
+273,4.766667,18.897,0.121,Panel scroll: Texture / Lighting
+274,4.783333,18.318,0.042,Panel scroll: Texture / Lighting
+275,4.8,17.888,0.09,Panel scroll: Texture / Lighting
+276,4.816667,17.749,0.034,Panel scroll: Texture / Lighting
+277,4.833333,17.552,0.092,Panel scroll: Texture / Lighting
+278,4.85,18.294,0.186,Panel scroll: Texture / Lighting
+279,4.866667,17.734,0.104,Panel scroll: Texture / Lighting
+280,4.883333,17.516,0.5,Panel scroll: Texture / Lighting
+281,4.916667,19.522,0.034,Panel scroll: Texture / Lighting
+282,4.933333,16.14,0.045,Panel scroll: Texture / Lighting
+283,4.95,14.081,0.025,Panel scroll: Texture / Lighting
+284,4.966667,14.153,0.006,Panel scroll: Texture / Lighting
+285,4.983333,14.291,0.002,Panel scroll: Texture / Lighting
+286,5.0,11.584,0.005,Panel scroll: Texture / Lighting
+287,5.016667,11.409,0.003,Panel scroll: Texture / Lighting
+288,5.033333,11.875,0.051,Panel scroll: Texture / Lighting
+289,5.05,8.589,0.1,Panel scroll: Texture / Lighting
+290,5.066667,8.474,0.074,Panel scroll: Texture / Lighting
+291,5.083333,8.217,0.115,Panel scroll: Texture / Lighting
+292,5.1,8.504,0.088,Panel scroll: Texture / Lighting
+293,5.116667,8.548,0.129,Panel scroll: Texture / Lighting
+294,5.133333,4.413,0.065,Panel scroll: Texture / Lighting
+295,5.15,4.418,0.055,Panel scroll: Texture / Lighting
+296,5.166667,4.128,0.028,Panel scroll: Texture / Lighting
+297,5.183333,4.503,0.019,Panel scroll: Texture / Lighting
+298,5.2,4.263,0.004,Panel scroll: Texture / Lighting
+299,5.216667,0.03,0.001,Panel scroll: Texture / Lighting
+300,5.233333,0.045,0.002,Panel scroll: Texture / Lighting
+301,5.25,0.045,0.002,Panel scroll: Texture / Lighting
+302,5.266667,0.038,0.006,Panel scroll: Texture / Lighting
+303,5.3,10.648,0.01,Panel scroll: Texture / Lighting
+304,5.316667,10.615,0.007,Panel scroll: Texture / Lighting
+305,5.333333,17.128,0.023,Panel scroll: Texture / Lighting
+306,5.35,18.484,0.006,Panel scroll: Texture / Lighting
+307,5.366667,18.433,0.0,Panel scroll: Texture / Lighting
+308,5.383333,18.713,0.002,Panel scroll: Texture / Lighting
+309,5.4,14.22,0.0,Panel scroll: Texture / Lighting
+310,5.416667,18.911,0.0,Panel scroll: Texture / Lighting
+311,5.433333,18.788,0.001,Panel scroll: Texture / Lighting
+312,5.45,19.019,0.021,Panel scroll: Texture / Lighting
+313,5.466667,18.883,0.013,Panel scroll: Texture / Lighting
+314,5.483333,18.771,0.0,Panel scroll: Texture / Lighting
+315,5.5,18.15,0.0,Panel scroll: Content / Scene
+316,5.516667,17.301,0.0,Panel scroll: Content / Scene
+317,5.533333,17.301,0.001,Panel scroll: Content / Scene
+318,5.55,16.939,0.001,Panel scroll: Content / Scene
+319,5.566667,16.582,0.041,Panel scroll: Content / Scene
+320,5.583333,16.509,0.047,Panel scroll: Content / Scene
+321,5.6,16.974,0.033,Panel scroll: Content / Scene
+322,5.633333,17.903,0.0,Panel scroll: Content / Scene
+323,5.65,8.289,0.013,Panel scroll: Content / Scene
+324,5.666667,8.002,0.008,Panel scroll: Content / Scene
+325,5.683333,4.849,0.004,Panel scroll: Content / Scene
+326,5.7,3.091,0.005,Panel scroll: Content / Scene
+327,5.716667,1.475,0.008,Panel scroll: Content / Scene
+328,5.733333,1.445,0.018,Panel scroll: Content / Scene
+329,5.75,0.1,0.002,Panel scroll: Content / Scene
+330,5.766667,1.614,0.003,Panel scroll: Content / Scene
+331,5.783333,1.539,0.004,Panel scroll: Content / Scene
+332,5.8,3.155,0.002,Panel scroll: Content / Scene
+333,5.816667,1.768,0.0,Panel scroll: Content / Scene
+334,5.833333,1.77,0.0,Panel scroll: Content / Scene
+335,5.85,1.703,0.0,Panel scroll: Content / Scene
+336,5.866667,1.871,0.005,Panel scroll: Content / Scene
+337,5.883333,1.767,0.0,Panel scroll: Content / Scene
+338,5.9,1.665,0.001,Panel scroll: Content / Scene
+339,5.916667,0.106,0.001,Panel scroll: Content / Scene
+340,5.933333,1.764,0.015,Panel scroll: Content / Scene
+341,5.95,1.72,0.002,Panel scroll: Content / Scene
+342,5.966667,0.105,0.002,Panel scroll: Content / Scene
+343,5.983333,2.067,0.004,Panel scroll: Content / Scene
+344,6.0,0.379,2.049,Panel scroll: Content / Scene
+345,6.016667,0.054,0.0,Panel scroll: Content / Scene
+346,6.033333,0.057,0.0,Panel scroll: Content / Scene
+347,6.05,1.707,0.0,Panel scroll: Content / Scene
+348,6.066667,0.122,0.0,Panel scroll: Content / Scene
+349,6.083333,0.139,0.0,Panel scroll: Content / Scene
+350,6.1,0.109,0.0,Panel scroll: Content / Scene
+351,6.133333,1.858,0.0,Panel scroll: Content / Scene
+352,6.15,0.131,0.0,Panel scroll: Content / Scene
+353,6.166667,0.023,0.0,Panel scroll: Content / Scene
+354,6.183333,0.017,0.0,Panel scroll: Content / Scene
+355,6.2,0.019,0.0,Panel scroll: Content / Scene
+356,6.216667,0.026,0.0,Panel scroll: Content / Scene
+357,6.233333,0.024,0.013,Panel scroll: Content / Scene
+358,6.25,0.013,0.005,Panel scroll: Content / Scene
+359,6.266667,0.015,0.004,Panel scroll: Content / Scene
+360,6.283333,0.029,0.017,Panel scroll: Content / Scene
+361,6.3,0.012,0.07,Panel scroll: Content / Scene
+362,6.316667,0.009,0.03,Panel scroll: Content / Scene
+363,6.333333,0.007,0.029,Panel scroll: Content / Scene
+364,6.35,0.014,0.079,Panel scroll: Content / Scene
+365,6.366667,0.004,0.0,Panel scroll: Content / Scene
+366,6.383333,0.007,0.0,Panel scroll: Content / Scene
+367,6.4,7.292,0.0,Panel scroll: Content / Scene
+368,6.433333,17.705,0.0,Panel scroll: Content / Scene
+369,6.45,17.408,0.0,Panel scroll: Content / Scene
+370,6.466667,15.181,0.0,Panel scroll: Content / Scene
+371,6.483333,0.081,0.0,Panel scroll: Content / Scene
+372,6.5,17.955,0.0,Panel scroll: Content / Scene
+373,6.516667,17.474,0.0,Panel scroll: Content / Scene
+374,6.533333,17.682,0.0,Panel scroll: Content / Scene
+375,6.55,19.592,0.0,Panel scroll: Content / Scene
+376,6.566667,21.403,0.0,Panel scroll: Content / Scene
+377,6.583333,23.237,0.0,Panel scroll: Content / Scene
+378,6.6,23.402,0.0,Panel returns to Card / Colors
+379,6.616667,23.574,0.0,Panel returns to Card / Colors
+380,6.633333,21.134,0.0,Panel returns to Card / Colors
+381,6.65,21.909,0.0,Panel returns to Card / Colors
+382,6.666667,17.105,0.0,Panel returns to Card / Colors
+383,6.683333,12.523,0.0,Panel returns to Card / Colors
+384,6.7,7.442,0.0,Panel returns to Card / Colors
+385,6.716667,1.461,0.0,Panel returns to Card / Colors
+386,6.733333,4.175,0.0,Panel returns to Card / Colors
+387,6.75,6.196,0.0,Panel returns to Card / Colors
+388,6.766667,7.503,0.0,Panel returns to Card / Colors
+389,6.783333,9.396,0.0,Panel returns to Card / Colors
+390,6.8,8.334,0.0,Panel returns to Card / Colors
+391,6.816667,8.603,0.0,Panel returns to Card / Colors
+392,6.833333,8.183,0.0,Panel returns to Card / Colors
+393,6.85,7.763,0.0,Panel returns to Card / Colors
+394,6.866667,7.931,0.0,Panel returns to Card / Colors
+395,6.883333,6.731,0.0,Panel returns to Card / Colors
+396,6.9,5.853,0.0,Panel returns to Card / Colors
+397,6.916667,5.852,0.001,Panel returns to Card / Colors
+398,6.933333,5.686,0.0,Panel returns to Card / Colors
+399,6.966667,7.809,0.0,Panel returns to Card / Colors
+400,6.983333,2.962,0.0,Panel returns to Card / Colors
+401,7.0,3.116,0.0,Panel returns to Card / Colors
+402,7.016667,2.94,0.0,Panel returns to Card / Colors
+403,7.033333,3.21,0.0,Panel returns to Card / Colors
+404,7.05,1.633,0.0,Panel returns to Card / Colors
+405,7.066667,2.247,0.001,Panel returns to Card / Colors
+406,7.083333,1.671,0.0,Panel returns to Card / Colors
+407,7.1,1.622,0.0,Pointer tilt / foil response
+408,7.116667,0.112,0.001,Pointer tilt / foil response
+409,7.133333,1.507,0.0,Pointer tilt / foil response
+410,7.15,0.516,0.0,Pointer tilt / foil response
+411,7.166667,1.478,0.0,Pointer tilt / foil response
+412,7.183333,0.138,0.0,Pointer tilt / foil response
+413,7.2,1.507,0.001,Pointer tilt / foil response
+414,7.216667,0.06,0.0,Pointer tilt / foil response
+415,7.233333,0.031,0.0,Pointer tilt / foil response
+416,7.25,0.065,0.0,Pointer tilt / foil response
+417,7.266667,0.063,0.001,Pointer tilt / foil response
+418,7.283333,0.057,0.0,Pointer tilt / foil response
+419,7.3,0.058,0.0,Pointer tilt / foil response
+420,7.316667,1.438,0.002,Pointer tilt / foil response
+421,7.333333,0.0,0.0,Pointer tilt / foil response
+422,7.35,0.0,0.0,Pointer tilt / foil response
+423,7.366667,0.0,0.0,Pointer tilt / foil response
+424,7.383333,0.0,0.0,Pointer tilt / foil response
+425,7.4,0.0,0.0,Pointer tilt / foil response
+426,7.416667,0.0,0.0,Pointer tilt / foil response
+427,7.45,0.0,0.0,Pointer tilt / foil response
+428,7.466667,0.0,0.0,Pointer tilt / foil response
+429,7.483333,0.0,0.0,Pointer tilt / foil response
+430,7.5,0.0,0.0,Pointer tilt / foil response
+431,7.516667,0.0,0.0,Pointer tilt / foil response
+432,7.533333,0.001,0.0,Pointer tilt / foil response
+433,7.55,0.006,0.016,Pointer tilt / foil response
+434,7.566667,0.005,0.005,Pointer tilt / foil response
+435,7.583333,0.003,0.005,Pointer tilt / foil response
+436,7.6,0.009,0.012,Pointer tilt / foil response
+437,7.616667,0.0,0.299,Pointer tilt / foil response
+438,7.633333,0.0,0.416,Pointer tilt / foil response
+439,7.65,0.0,0.496,Pointer tilt / foil response
+440,7.666667,0.0,2.295,Pointer tilt / foil response
+441,7.683333,0.0,4.496,Pointer tilt / foil response
+442,7.7,0.0,4.981,Pointer tilt / foil response
+443,7.716667,0.0,5.307,Pointer tilt / foil response
+444,7.733333,0.0,4.978,Pointer tilt / foil response
+445,7.75,0.0,2.85,Pointer tilt / foil response
+446,7.766667,0.0,2.198,Pointer tilt / foil response
+447,7.783333,0.0,2.135,Pointer tilt / foil response
+448,7.8,0.0,2.936,Pointer tilt / foil response
+449,7.816667,0.0,3.572,Pointer tilt / foil response
+450,7.833333,0.0,3.586,Pointer tilt / foil response
+451,7.85,0.0,3.778,Pointer tilt / foil response
+452,7.866667,0.0,3.824,Pointer tilt / foil response
+453,7.883333,0.0,3.313,Pointer tilt / foil response
+454,7.9,0.0,3.112,Pointer tilt / foil response
+455,7.933333,0.0,3.921,Pointer tilt / foil response
+456,7.95,0.0,2.273,Pointer tilt / foil response
+457,7.966667,0.0,1.179,Pointer tilt / foil response
+458,7.983333,0.0,1.391,Pointer tilt / foil response
+459,8.0,0.0,0.647,Pointer tilt / foil response
+460,8.016667,0.0,0.736,Pointer tilt / foil response
+461,8.033333,0.0,0.71,Pointer tilt / foil response
+462,8.05,0.0,1.115,Pointer tilt / foil response
+463,8.066667,0.0,0.813,Pointer tilt / foil response
+464,8.083333,0.0,0.769,Pointer tilt / foil response
+465,8.1,0.0,0.719,Pointer tilt / foil response
+466,8.116667,0.0,1.043,Pointer tilt / foil response
+467,8.133333,0.0,0.552,Pointer tilt / foil response
+468,8.15,0.0,0.506,Pointer tilt / foil response
+469,8.166667,0.0,0.43,Pointer tilt / foil response
+470,8.183333,0.0,0.778,Pointer tilt / foil response
+471,8.2,0.0,0.291,Pointer tilt / foil response
+472,8.216667,0.0,0.24,Pointer tilt / foil response
+473,8.233333,0.0,0.19,Pointer tilt / foil response
+474,8.25,0.0,0.527,Pointer tilt / foil response
+475,8.266667,0.0,0.319,Pointer tilt / foil response
+476,8.283333,0.0,0.194,Pointer tilt / foil response
+477,8.3,0.0,0.167,Pointer tilt / foil response
+478,8.316667,0.0,0.438,Pointer tilt / foil response
+479,8.333333,0.001,0.318,Pointer tilt / foil response
+480,8.35,0.001,0.338,Pointer tilt / foil response
+481,8.366667,0.0,0.282,Pointer tilt / foil response
+482,8.383333,0.001,0.472,Pointer tilt / foil response
+483,8.4,0.0,1.438,Pointer tilt / foil response
+484,8.416667,0.0,1.611,Pointer tilt / foil response
+485,8.433333,0.0,3.204,Pointer tilt / foil response
+486,8.45,0.0,3.737,Pointer tilt / foil response
+487,8.466667,0.0,5.811,Pointer tilt / foil response
+488,8.5,0.0,11.168,Pointer tilt / foil response
+489,8.516667,0.0,3.73,Pointer tilt / foil response
+490,8.533333,0.0,3.2,Pointer tilt / foil response
+491,8.55,0.0,2.202,Pointer tilt / foil response
+492,8.566667,0.0,2.075,Pointer tilt / foil response
+493,8.583333,0.0,2.717,Pointer tilt / foil response
+494,8.6,0.0,2.474,Pointer tilt / foil response
+495,8.616667,0.0,3.305,Pointer tilt / foil response
+496,8.633333,0.0,2.788,Pointer tilt / foil response
+497,8.65,0.0,2.811,Pointer tilt / foil response
+498,8.666667,0.0,2.435,Pointer tilt / foil response
+499,8.683333,0.0,2.669,Pointer tilt / foil response
+500,8.7,0.0,2.179,Pointer tilt / foil response
+501,8.716667,0.135,0.03,Pointer tilt / foil response
+502,8.733333,23.771,21.842,Pointer tilt / foil response
+503,8.75,14.271,9.643,Pointer tilt / foil response
+504,8.766667,14.503,9.412,Pointer tilt / foil response
+505,8.783333,10.961,7.326,Pointer tilt / foil response
+506,8.8,0.14,0.546,Pointer tilt / foil response
+507,8.816667,9.554,6.13,Pointer tilt / foil response
+508,8.833333,0.207,1.048,Pointer tilt / foil response
+509,8.85,5.508,3.069,Pointer tilt / foil response
+510,8.866667,5.534,3.11,Pointer tilt / foil response
+511,8.883333,5.679,3.281,Pointer tilt / foil response
+512,8.9,0.01,0.757,Browser toolbar appears
+513,8.916667,0.008,0.602,Browser toolbar appears
+514,8.933333,0.008,0.618,Browser toolbar appears
+515,8.95,0.01,0.655,Browser toolbar appears
+516,8.966667,0.03,0.62,Browser toolbar appears
+517,8.983333,0.034,0.591,Browser toolbar appears
+518,9.0,0.542,2.363,Browser toolbar appears
+519,9.016667,0.0,0.028,Browser toolbar appears
+520,9.033333,0.0,0.056,Browser toolbar appears
+521,9.066667,0.0,0.023,Browser toolbar appears
+522,9.083333,0.0,0.057,Browser toolbar appears
+523,9.1,0.0,0.291,Browser toolbar appears
+524,9.116667,0.001,0.221,Browser toolbar appears
+525,9.133333,0.0,0.241,Browser toolbar appears
+526,9.15,0.0,0.264,Browser toolbar appears
+527,9.166667,0.003,0.381,Browser toolbar appears
+528,9.183333,0.001,0.222,Browser toolbar appears
+529,9.2,0.001,0.309,Browser toolbar appears
+530,9.216667,0.003,0.259,Browser toolbar appears
+531,9.233333,0.002,0.318,Browser toolbar appears
+532,9.25,0.001,0.162,Browser toolbar appears
+533,9.266667,0.002,0.176,Browser toolbar appears
+534,9.283333,0.002,0.25,Browser toolbar appears
+535,9.3,0.006,0.242,Browser toolbar appears
+536,9.316667,0.003,0.109,Browser toolbar appears
+537,9.333333,0.006,0.124,Browser toolbar appears
+538,9.35,0.012,0.17,Browser toolbar appears
+539,9.366667,0.003,0.213,Browser toolbar appears
+540,9.383333,0.002,0.111,Browser toolbar appears
+541,9.4,0.002,0.125,Browser toolbar appears
+542,9.416667,0.004,0.136,Browser toolbar appears
+543,9.433333,0.01,0.344,Browser toolbar appears
+544,9.45,0.005,0.172,Browser toolbar appears
+545,9.466667,0.0,0.0,Browser toolbar appears
+546,9.483333,0.019,0.355,Browser toolbar appears
+547,9.516667,0.148,0.029,Browser toolbar appears
+548,9.533333,14.737,8.911,Browser toolbar appears
+549,9.55,19.943,15.482,Browser toolbar appears

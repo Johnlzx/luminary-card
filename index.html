@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111"><title>Card Customizer · Luminary Club</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath fill='%238dd8c4' d='M20 0Q23 17 40 20Q23 23 20 40Q17 23 0 20Q17 17 20 0'/%3E%3C/svg%3E">
+  <link rel="preload" href="./assets/instrument-serif.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="./src/styles.css">
+</head>
+<body>
+  <main class="workspace">
+    <section class="scene" aria-label="Live card preview">
+      <div class="aurora-fallback" aria-hidden="true"></div><canvas id="aurora-canvas" aria-hidden="true"></canvas>
+      <div class="card-space"><div class="entrance"><div class="card-target">
+        <article class="card" tabindex="0" aria-label="Luminary Club membership card. Move the pointer or use arrow keys to tilt.">
+          <div class="card-surface">
+            <div class="card-colors"></div><div class="card-foil"></div><div class="card-glare"></div>
+            <div class="card-texture"></div><div class="card-emboss"></div><div class="card-grain"></div>
+            <div class="card-sweep"></div><div class="card-edge"></div><div class="tear-line"></div>
+
+            <div class="card-copy"><h1 id="card-title">Luminary Club</h1><p id="card-subtitle">FOUNDING MEMBER</p><div class="card-meta"><div><span>CARDHOLDER</span><strong id="card-holder">Alex Chen</strong></div><div><span>NO.</span><strong id="card-number">0042</strong></div><div><span>VALID THRU</span><strong id="card-valid">2028.09</strong></div></div></div>
+          </div>
+            <div class="card-logo" aria-hidden="true"><svg class="star" viewBox="0 0 40 40"><defs><linearGradient id="star-foil" x1="0" y1=".3" x2="1" y2=".6"><stop offset="0" stop-color="#a7a070"/><stop offset=".42" stop-color="#518f77"/><stop offset="1" stop-color="#328f84"/></linearGradient></defs><path fill="url(#star-foil)" d="M20 0C22 12 28 18 40 20C28 22 22 28 20 40C18 28 12 22 0 20C12 18 18 12 20 0Z"/></svg><svg class="rings" viewBox="0 0 48 40"><ellipse cx="17" cy="20" rx="12" ry="17"/><ellipse cx="29" cy="20" rx="12" ry="17"/></svg></div>
+        </article>
+      </div></div></div>
+    </section>
+    <aside class="inspector" aria-label="Customize card">
+      <header class="panel-header"><h2>Customize</h2><p id="save-status">Live preview · auto-saved locally</p></header>
+      <form class="panel-scroll" id="controls" autocomplete="off"></form>
+      <footer class="panel-footer"><button type="button" class="icon-button" id="reset" title="Reset to defaults" aria-label="Reset to defaults"><svg viewBox="0 0 24 24"><path d="M3 4v6h6M3.7 9a8 8 0 1 1-.2 6"/></svg></button><div><button type="button" id="import"><svg viewBox="0 0 24 24"><path d="M12 15V3m-5 5 5-5 5 5M4 14v5a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5"/></svg>Import</button><button type="button" class="primary" id="export"><svg viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 15v4a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-4"/></svg>Export</button></div></footer>
+    </aside>
+  </main>
+  <input id="import-file" type="file" accept=".json,application/json" hidden>
+  <input id="texture-file" type="file" accept="image/png,image/jpeg,image/webp,image/svg+xml" hidden>
+  <div class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>

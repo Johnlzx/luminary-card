@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-09-29T16:42:51.977Z",
+  "browser": "154.0.8037.58",
+  "checks": [
+    {
+      "name": "default dimensions, all 6 groups, WebGL, and unique IDs",
+      "status": "passed"
+    },
+    {
+      "name": "real raised star layer and interactive spring tilt",
+      "status": "passed"
+    },
+    {
+      "name": "all geometry controls update the card",
+      "status": "passed"
+    },
+    {
+      "name": "five presets and hex colors affect preview",
+      "status": "passed"
+    },
+    {
+      "name": "all texture settings change material",
+      "status": "passed"
+    },
+    {
+      "name": "foil, glare, grain, and tilt controls are connected",
+      "status": "passed"
+    },
+    {
+      "name": "content, logo, and scene settings update and persist",
+      "status": "passed"
+    },
+    {
+      "name": "upload rasterizes texture and JSON export/import round-trips",
+      "status": "passed"
+    },
+    {
+      "name": "panel scroll, section collapse, and reference lower panel",
+      "status": "passed"
+    },
+    {
+      "name": "mobile layout has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "reduced motion disables 3D movement",
+      "status": "passed"
+    },
+    {
+      "name": "no failed assets or JavaScript errors",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}
