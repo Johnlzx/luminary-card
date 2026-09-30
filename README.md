@@ -1,6 +1,5 @@
 # Luminary Card Customizer
 
-根据 [Ding 的演示视频](https://x.com/dingyi/status/2100437892359462945)还原的可交互会员卡与完整参数面板。无需安装 npm 依赖。
 
 ## 运行
 
